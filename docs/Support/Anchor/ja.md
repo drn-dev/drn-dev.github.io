@@ -1,3 +1,3 @@
-**<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">お問い合わせ</font></font>**
+**お問い合わせ**
 
-<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E-Mail: yuya.shiokawa.dev@gmail.com</font></font>
+本アプリの利用中にプライバシーに関してご質問がある場合、または本アプリの利用方法についてご質問がある場合は、サービス提供者まで電子メール（yuya.shiokawa.dev@gmail.com）にてご連絡ください。
